@@ -27,6 +27,9 @@ this Excel project analyse amazon sales data to uncover insight and trend for bu
 2. Open it in excel
 3. Review
 
+### Screenshots
+
+
 ### Notes
 This Project was created as part of [DSA Project For Data Analysis}
 
