@@ -16,3 +16,17 @@ this Excel project analyse amazon sales data to uncover insight and trend for bu
 -  Microsoft Ecel (with PivotTables and charts)
    -  For Data Collection
    -  For Data Cleaning
+
+  ### Exploratory Data Analysis
+  -  Which Product have the highest average ratings
+  -  Which Product have the highest number of review
+  -  How many Product have discount of 50% or more?
+
+### Getting Started 
+1. Click the file to download
+2. Open it in excel
+3. Review
+
+### Notes
+This Project was created as part of [DSA Project For Data Analysis}
+
