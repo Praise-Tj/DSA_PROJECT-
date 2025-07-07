@@ -13,9 +13,11 @@ this Excel project analyse amazon sales data to uncover insight and trend for bu
 -  Interactive charts
 
   ### Tools Used
--  Microsoft Ecel (with PivotTables and charts)
+-  Microsoft Ecel 
    -  For Data Collection
    -  For Data Cleaning
+-  PivotTable
+-  Slicers and chart
 
   ### Exploratory Data Analysis
   -  Which Product have the highest average ratings
